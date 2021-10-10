@@ -1,0 +1,11 @@
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Carreiro\Desenvolvimento\Alura\Csharp_e_OO\parte_6\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

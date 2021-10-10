@@ -1,0 +1,6 @@
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_2\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb

@@ -1,0 +1,7 @@
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\HildefonsoDutraCarre\Dropbox\Estudo\Alura\Csharp_e_OO\parte_4\ByteBank\obj\Debug\ByteBank.pdb
